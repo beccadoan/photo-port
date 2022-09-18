@@ -26,7 +26,7 @@ return (
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
-            <a
+            <a data-testid="about"
               href="#about"
             >
               About me
